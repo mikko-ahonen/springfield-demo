@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="springfield-logo-bw.png" width="460"/>
+  <img src="springfield-logo-bw.png" width="250"/>
 </p>
