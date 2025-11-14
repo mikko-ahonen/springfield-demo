@@ -1,5 +1,3 @@
-# Springfield Municipality
-
-![logo](../main/springfield-logo.png?raw=true)
-
-<img src="springfield-logo.png" width="100"/>
+<p align="center">
+  <img src="springfield-logo-bw.png" width="460"/>
+</p>
