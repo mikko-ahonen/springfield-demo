@@ -14,28 +14,9 @@
 
 Springfield is located in north-central Montana, nestled in the foothills where the Rocky Mountain Front meets the Great Plains. The municipality sits along the Sun River, approximately 22 miles southwest of Great Falls, the state's third-largest city.
 
-```
-┌─────────────────────────────────────────────┐
-│                 MONTANA                      │
-│                                              │
-│    Glacier NP                                │
-│        ▲                                     │
-│        │  Shelby                             │
-│        │    ●                                │
-│   Rocky│                                     │
-│   Mtns │         Great Falls                │
-│    ▲▲▲▲│            ●────┐                  │
-│    ▲▲▲▲│                 │ 22 mi            │
-│    ▲▲▲▲│         SPRINGFIELD               │
-│    ▲▲▲▲│            ★                       │
-│    ▲▲▲▲└─Sun River──┘                       │
-│        │                                     │
-│        │  Helena (91 mi S)                  │
-│        │    ●                                │
-│                                              │
-│              Great Plains ───────────→       │
-└─────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="springfield-map-bw.png" width="400"/>
+</p>
 
 ### Terrain and Climate
 
