@@ -352,7 +352,7 @@ Moody's upgraded Springfield's municipal bond rating to Aa2, highest in city his
 ## 6. City Map
 
 <p align="center">
-  <img src="springfield-map.png" width="400"/>
+  <img src="springfield-city-map.png" width="400"/>
 </p>
 
 ## 6. Major Local Businesses
