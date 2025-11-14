@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="discover-springfield.gif" width="400"/>
+</p>
+
+<p align="center">
   <img src="springfield-logo-bw.png" width="250"/>
 </p>
 
