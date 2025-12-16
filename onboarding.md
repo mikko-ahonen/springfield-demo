@@ -88,7 +88,7 @@ Our onboarding philosophy emphasizes compliance, clarity, and connection. New em
 9. Prepare new hire orientation packet (physical folder) containing: welcome letter, organizational chart, employee handbook, benefits summary, emergency procedures, forms requiring wet signatures
 
 #### IT Administrator
-1. Upon receipt of IT Access Request, create user account in Active Directory with username format: firstinitiallastname@springfield.gov
+1. Upon receipt of IT Access Request, create user account in Active Directory with username format: firstinitiallastname@springfieldmunicipality.com
 2. Generate temporary password and send securely to HR Coordinator
 3. Provision email account in Microsoft 365
 4. Create network drive access for employee's department
@@ -147,7 +147,7 @@ Our onboarding philosophy emphasizes compliance, clarity, and connection. New em
 #### HR Coordinator
 1. Send new hire portal login credentials via email with subject line: "Action Required: Springfield Municipality Pre-Employment Forms"
 2. Include video tutorial link showing how to complete each form
-3. Provide HR contact information for questions: HR helpline (555-0100) and email (hr@springfield.gov)
+3. Provide HR contact information for questions: HR helpline (555-0100) and email (hr@springfieldmunicipality.com)
 4. Monitor portal completion status daily
 5. Send reminder email if not completed within 48 hours
 6. Review completed forms for accuracy and completeness
@@ -282,7 +282,7 @@ Our onboarding philosophy emphasizes compliance, clarity, and connection. New em
    - Connecting to Wi-Fi
    - Remote access/VPN setup
    - Password reset procedures
-   - IT help desk contact information (helpdesk@springfield.gov or extension 5000)
+   - IT help desk contact information (helpdesk@springfieldmunicipality.com or extension 5000)
 10. Schedule comprehensive IT orientation for Day 2 or 3
 11. Add employee phone extension to municipal directory
 
@@ -427,7 +427,7 @@ Our onboarding philosophy emphasizes compliance, clarity, and connection. New em
    - BYOD (Bring Your Own Device) policy
 6. Provide contact information for IT support:
    - Help desk phone: extension 5000
-   - Help desk email: helpdesk@springfield.gov
+   - Help desk email: helpdesk@springfieldmunicipality.com
    - Self-service portal for password resets
    - IT staff directory
 7. Demonstrate how to submit help desk tickets
@@ -845,7 +845,7 @@ Our onboarding philosophy emphasizes compliance, clarity, and connection. New em
 9. Provide security contact information:
    - Security desk phone: extension 5100
    - Emergency: 911 or on-campus emergency line
-   - Non-emergency: security@springfield.gov
+   - Non-emergency: security@springfieldmunicipality.com
 10. Explain lost badge procedures:
    - Report immediately to Security (even if after-hours)
    - Badge will be deactivated
@@ -2204,10 +2204,10 @@ Congratulations on completing the Springfield Municipality onboarding process! T
 
 For ongoing questions or support, contact:
 - **Your Supervisor:** Your primary resource for day-to-day guidance
-- **HR Department:** (555) 555-0100 or hr@springfield.gov
-- **IT Help Desk:** Extension 5000 or helpdesk@springfield.gov
-- **Benefits:** benefits@springfield.gov
-- **Payroll:** payroll@springfield.gov
+- **HR Department:** (555) 555-0100 or hr@springfieldmunicipality.com
+- **IT Help Desk:** Extension 5000 or helpdesk@springfieldmunicipality.com
+- **Benefits:** benefits@springfieldmunicipality.com
+- **Payroll:** payroll@springfieldmunicipality.com
 
 Welcome to Springfield Municipality!
 
@@ -2216,29 +2216,29 @@ Welcome to Springfield Municipality!
 ## Appendix: Key Contacts and Resources
 
 **Human Resources Department**
-- HR Manager: Jane Smith, ext. 1101, jsmith@springfield.gov
-- HR Coordinator: Mike Johnson, ext. 1102, mjohnson@springfield.gov
-- Benefits Administrator: Sarah Lee, ext. 1103, slee@springfield.gov
-- Payroll Specialist: Tom Chen, ext. 1104, tchen@springfield.gov
+- HR Manager: Jane Smith, ext. 1101, jsmith@springfieldmunicipality.com
+- HR Coordinator: Mike Johnson, ext. 1102, mjohnson@springfieldmunicipality.com
+- Benefits Administrator: Sarah Lee, ext. 1103, slee@springfieldmunicipality.com
+- Payroll Specialist: Tom Chen, ext. 1104, tchen@springfieldmunicipality.com
 
 **Information Technology Department**
-- IT Director: David Rodriguez, ext. 5001, drodriguez@springfield.gov
-- IT Administrator: Emily White, ext. 5002, ewhite@springfield.gov
-- Help Desk: ext. 5000, helpdesk@springfield.gov
+- IT Director: David Rodriguez, ext. 5001, drodriguez@springfieldmunicipality.com
+- IT Administrator: Emily White, ext. 5002, ewhite@springfieldmunicipality.com
+- Help Desk: ext. 5000, helpdesk@springfieldmunicipality.com
 
 **Facilities and Safety**
-- Facilities Manager: Robert Brown, ext. 3001, rbrown@springfield.gov
-- Safety Coordinator: Lisa Green, ext. 3002, lgreen@springfield.gov
-- Security: ext. 5100, security@springfield.gov
+- Facilities Manager: Robert Brown, ext. 3001, rbrown@springfieldmunicipality.com
+- Safety Coordinator: Lisa Green, ext. 3002, lgreen@springfieldmunicipality.com
+- Security: ext. 5100, security@springfieldmunicipality.com
 
 **Finance Department**
-- Finance Director: Patricia Martinez, ext. 2001, pmartinez@springfield.gov
-- Finance Analyst: Kevin Taylor, ext. 2002, ktaylor@springfield.gov
+- Finance Director: Patricia Martinez, ext. 2001, pmartinez@springfieldmunicipality.com
+- Finance Analyst: Kevin Taylor, ext. 2002, ktaylor@springfieldmunicipality.com
 
 **Important Systems and Portals**
-- Employee Intranet: springfield.gov/employees
+- Employee Intranet: springfieldmunicipality.com/employees
 - HRIS (BambooHR): springfield.bamboohr.com
-- Time & Attendance (Kronos): kronos.springfield.gov
+- Time & Attendance (Kronos): kronos.springfieldmunicipality.com
 - Email: Outlook.com (Microsoft 365)
 - Financial System: Munis (Tyler Technologies)
 

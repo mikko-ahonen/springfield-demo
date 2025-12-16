@@ -796,4 +796,4 @@ As Springfield embarks on its comprehensive planning process for the next twenty
 ---
 
 *Document compiled: November 14, 2025*
-*For corrections or additions, contact Springfield Historical Society at history@springfieldmt.gov*
+*For corrections or additions, contact Springfield Historical Society at history@springfieldmunicipality.com*
