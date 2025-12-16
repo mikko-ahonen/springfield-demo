@@ -209,7 +209,7 @@ The following key performance indicators (KPIs) measure service quality and cust
 
 - **Contact Channels:**
   - **Phone:** (555) 123-4567 (main HR line, answered live during business hours, voicemail monitored hourly)
-  - **Email:** hr@springfield.gov (monitored continuously during business hours)
+  - **Email:** hr@springfieldmunicipality.com (monitored continuously during business hours)
   - **In-Person:** City Hall Room 201, walk-ins welcome, appointments recommended for complex matters
   - **Self-Service Portal Chat:** Available 8:00 AM - 4:00 PM via employee portal for real-time assistance
   - **After-Hours Emergency:** (555) 123-4599 (for critical HR emergencies only - serious workplace incidents, urgent employee relations matters)
@@ -260,9 +260,9 @@ The following key performance indicators (KPIs) measure service quality and cust
   - **Physical Location:** City Hall, Second Floor, Room 201
   - **Phone:** (555) 123-4567
   - **Fax:** (555) 123-4568
-  - **Email:** hr@springfield.gov
-  - **Website:** www.springfield.gov/departments/human-resources
-  - **Employee Portal:** portal.springfield.gov/hr
+  - **Email:** hr@springfieldmunicipality.com
+  - **Website:** www.springfieldmunicipality.com/departments/human-resources
+  - **Employee Portal:** portal.springfieldmunicipality.com/hr
 
 - **Support Staff:**
   - HR Coordinator (front-line support, general inquiries, document processing)
