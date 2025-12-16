@@ -1,0 +1,13 @@
+services :
+  claude:
+    stdin_open: true
+    tty: true
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      target: claude
+    volumes:
+      - ../../.workspaces/springfield-demo:/workspaces
+      - ./:/src
+    environment:
+      - CLAUDE_CONFIG_DIR=/workspaces/claude
